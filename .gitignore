@@ -6,3 +6,9 @@ data/audio/*
 data/processed/
 *.pyc
 .DS_Store
+data/processed/*
+!data/processed/.gitkeep
+models/
+!models/.gitkeep
+models/*
+
